@@ -1,1 +1,1 @@
-# Angular app using Facebook API
+# AngularJS app using Facebook API
